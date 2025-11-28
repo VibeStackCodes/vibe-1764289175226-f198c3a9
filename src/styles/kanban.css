@@ -1,0 +1,7 @@
+.kanban-board {
+  @apply p-4 bg-gray-100 rounded-lg;
+}
+
+.kanban-board .task-item {
+  @apply mb-2;
+}
